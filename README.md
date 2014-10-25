@@ -11,7 +11,7 @@ Abstract class, contains shared variables for all Actor types.
 
 Elf, Hobbit, Orc, Wizard: 
 
-Subclasses of Actor, and adds all unique effects and methods unique to that Actor type. For example, a wizard has a hasStaff variable.
+Subclasses of Actor, and adds all unique effects and methods unique to that Actor type. For example, a wizard has a hasStaff boolean that Hobbits, Elves, and Orcs don't.
 
 Actor Factory:
 
