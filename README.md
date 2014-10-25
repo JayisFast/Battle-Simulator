@@ -3,6 +3,8 @@ Battle-Simulator
 
 Simulates a basic battle. 
 
+Classes-
+
 Actor: 
 
 Abstract class, contains shared variables for all Actor types.
